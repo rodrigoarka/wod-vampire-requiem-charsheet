@@ -1,4 +1,4 @@
-# WOD vampire character sheet with requiem styling
+# WOD Werewolf character sheet with requiem styling
 
 [![Build Status](https://travis-ci.org/jehy/wod-vampire-requiem-charsheet.svg?branch=master)](https://travis-ci.org/jehy/wod-vampire-requiem-charsheet)
 [![dependencies Status](https://david-dm.org/jehy/wod-vampire-requiem-charsheet/status.svg)](https://david-dm.org/jehy/wod-vampire-requiem-charsheet)
